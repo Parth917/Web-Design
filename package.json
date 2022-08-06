@@ -1,0 +1,27 @@
+{
+  "name": "matfresher-marketing",
+  "version": "1.0.0",
+  "description": "Marketing Site for MatFresher",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass assets/scss/style.scss assets/css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codal/matfresher-marketing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codal/matfresher-marketing/issues"
+  },
+  "homepage": "https://github.com/codal/matfresher-marketing/index.html",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  },
+  "dependencies": {
+    "@ttskch/select2-bootstrap4-theme": "^1.4.0",
+    "saas": "^1.0.0",
+    "sass": "^1.26.10"
+  }
+}

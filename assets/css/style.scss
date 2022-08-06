@@ -1,0 +1,20 @@
+@import "../library/bootstrap/scss/functions";
+
+@import "variables";
+
+
+/* You can add global styles to this file, and also import other style files */
+
+@import "../library/bootstrap/scss/mixins";
+@import "../library/bootstrap/scss/bootstrap";
+@import "../library/fontawesome-free-5.13.0-web/scss/fontawesome";
+@import "../library/fontawesome-free-5.13.0-web/scss/regular";
+@import "../library/fontawesome-free-5.13.0-web/scss/solid";
+@import "../library/fontawesome-free-5.13.0-web/scss/brands";
+
+@import 'main';
+@import "responsive";
+
+
+
+
